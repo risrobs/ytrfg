@@ -27,3 +27,9 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+body {
+  font: 1rem/1.5 var(--bs-font-sans-serif);
+}
+a {
+  color: var(--bs-blue);
+}
